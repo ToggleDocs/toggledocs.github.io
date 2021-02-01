@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://toggledocs.github.io',
   baseUrl: '/ToggleDocs/build/index/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
