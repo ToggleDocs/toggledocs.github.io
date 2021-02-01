@@ -2,7 +2,7 @@ module.exports = {
   title: 'Toggle Documentation',
   tagline: 'All the docs! (For open-source projects)',
   url: 'https://toggledocs.github.io',
-  baseUrl: '/ToggleCorp/build/index/',
+  baseUrl: '/ToggleDocs/build/index/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
